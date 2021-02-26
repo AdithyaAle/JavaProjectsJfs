@@ -5,5 +5,6 @@ public class HelloGit {
 		int x=200;
 		System.out.println("x = "+ x);
 		System.out.println("Hello this is a sample.");
+		System.out.println("New test.");
 	}
 }
